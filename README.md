@@ -44,9 +44,10 @@ I specialize in a variety of technologies, including:
   
   **Other Skills:**
   <div >
+    <a href="https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab">
     <img width="50" src="https://files.codingninjas.in/dsa-1710046883.svg" alt="DSA" title="DSA"/>
     <img width="50" src="https://files.codingninjas.in/oops-1710046887.svg" alt="OOP" title="OOP"/>
-    <img width="50" src="https://files.codingninjas.in/problem_solving-1710046888.svg" alt="PROBLEM SOLVING" title="PROBLEM SOLVING"/>
+    <img width="50" src="https://files.codingninjas.in/problem_solving-1710046888.svg" alt="PROBLEM SOLVING" title="PROBLEM SOLVING"/></a>
   </div>
 
 - **Other Tools:**  
