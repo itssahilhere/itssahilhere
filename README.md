@@ -1,6 +1,4 @@
-Here's the updated version of your GitHub profile README with the additional links and skills:
 
-```markdown
 ## Hi there 👋
 
 # Hi👋 I'm Sahil
@@ -40,8 +38,15 @@ I specialize in a variety of technologies, including:
 
 - **Programming Languages:**  
   <div >
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/211122579-02a61a2e-a7a4-4eb7-8ba1-4d2a5c8d580f.png" alt="Java" title="Java"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/211122597-6a2b4d3c-9d74-4f5e-8f00-f0e7f7d61e3a.png" alt="Python" title="Python"/>
+    <img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" title="Java"/>
+    <img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" title="Python"/>
+  </div>
+  
+  **Other Skills:**
+  <div >
+    <img width="50" src="https://files.codingninjas.in/dsa-1710046883.svg" alt="DSA" title="DSA"/>
+    <img width="50" src="https://files.codingninjas.in/oops-1710046887.svg" alt="OOP" title="OOP"/>
+    <img width="50" src="https://files.codingninjas.in/problem_solving-1710046888.svg" alt="PROBLEM SOLVING" title="PROBLEM SOLVING"/>
   </div>
 
 - **Other Tools:**  
@@ -59,8 +64,19 @@ I believe that versatility is the key to building robust applications. Let's col
 ### 🏆 Achievements
 
 <div align="center">
-    <img width="100" src="https://ninjasfiles.s3.amazonaws.com/certificate_feaae2488997ac63_310fba00cec0bb37f947b8321ed51ec8.pdf" alt="hofbadge" title="Hacktoberfest"/>
-    <img width="100" src="https://www.hackerrank.com/certificates/ade02579c7a2" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/ace-coder-1-26995.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/code-crusader-4-26994.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/consistent-coder-3-26974.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/deadline-dynamo-4-27021.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/diligent-developer-4-26990.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/leaderboard-legend-2-27001.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/legendary-1-27005.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/streak-superstar-5-26986.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/samurai-30760.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/sensei-30761.svg" alt="hofbadge" title="Hacktoberfest"/>
+
+
+
 </div>
 </div>
 
@@ -82,4 +98,4 @@ I'm currently working on a series of web applications utilizing React and Node.j
 Feel free to reach out to me through:
 
 - [Naukri](https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab)
-- [LinkedIn]([https://www.linkedin.com/in/samyak-aditya](https://www.linkedin.com/in/sahil-agarwal-12b6a1233/)
+- [Linkdein](https://www.linkedin.com/in/sahil-agarwal-12b6a1233/)
