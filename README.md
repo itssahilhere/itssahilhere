@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-# Hi👋 I'm Sahil
+# Hi👋 I'm Sahil <a href="https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab"><img width="100" style="filter(brightness(200%))" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="HTML" title="HTML"/></a>  <a href="https://www.linkedin.com/in/sahil-agarwal-12b6a1233/"><img width="25" height="25" style="filter(brightness(200%))" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="HTML" title="HTML"/></a>
 
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
 My journey in tech has taken me from frontend design to backend logic.
