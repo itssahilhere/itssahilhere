@@ -64,6 +64,7 @@ I believe that versatility is the key to building robust applications. Let's col
 ### 🏆 Achievements
 
 <div align="center">
+  <a href="https://www.naukri.com/code360/profile/31b0ca78-a0bb-454d-8d26-855e38a00fab">
     <img width="100" src="https://files.codingninjas.in/ace-coder-1-26995.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/code-crusader-4-26994.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/consistent-coder-3-26974.svg" alt="hofbadge" title="Hacktoberfest"/>
@@ -73,7 +74,7 @@ I believe that versatility is the key to building robust applications. Let's col
     <img width="100" src="https://files.codingninjas.in/legendary-1-27005.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/streak-superstar-5-26986.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/samurai-30760.svg" alt="hofbadge" title="Hacktoberfest"/>
-    <img width="100" src="https://files.codingninjas.in/sensei-30761.svg" alt="hofbadge" title="Hacktoberfest"/>
+    <img width="100" src="https://files.codingninjas.in/sensei-30761.svg" alt="hofbadge" title="Hacktoberfest"/></a>
 
 
 
