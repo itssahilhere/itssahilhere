@@ -76,16 +76,24 @@ I believe that versatility is the key to building robust applications. Let's col
     <img width="100" src="https://files.codingninjas.in/streak-superstar-5-26986.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/samurai-30760.svg" alt="hofbadge" title="Hacktoberfest"/>
     <img width="100" src="https://files.codingninjas.in/sensei-30761.svg" alt="hofbadge" title="Hacktoberfest"/></a>
-
-
-
 </div>
+<!-- Copy-paste in your Readme.md file -->
+
+<!-- Copy-paste in your Readme.md file -->
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=95347239&period=all_times" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=95347239&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
     <img alt="Contribution Time Distribution of @itssahilhere" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=95347239&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=95347239" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95347239&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @itssahilhere" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95347239&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
